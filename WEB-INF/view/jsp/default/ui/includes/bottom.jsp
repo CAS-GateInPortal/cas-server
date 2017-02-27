@@ -20,10 +20,9 @@
 
 </div>
                 <div id="footer" class="fl-panel fl-note fl-bevel-white fl-font-size-80">
-                	<a id="jasig" href="http://www.jasig.org" title="go to Jasig home page"></a>
                     <div id="copyright">
-                        <p>Copyright &copy; 2005 - 2012 Jasig, Inc. All rights reserved.</p>
-                        <p>Powered by <a href="http://www.jasig.org/cas">Jasig Central Authentication Service <%=org.jasig.cas.CasVersion.getVersion()%></a></p>
+                        <p>Copyright &copy; 2009 - 2017 China Mobile Research Institute. All rights reserved.</p>
+                        <p>Powered by <a href="http://ots.cmri.cn">Open Testing System </a></p>
                     </div>
                 </div>
             </div>

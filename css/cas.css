@@ -21,7 +21,7 @@
     #cas fieldset {border:0; margin:0; padding:0; float:left; clear:none; width:auto;}
         #cas fieldset legend {display:none;}
 
-        #cas #login {float:left; margin:0 -296px 0 0; padding:15px; width:258px; min-height:15em; background:#eee; position:relative; border:0;}
+        #cas #login {float:left; margin:45px -296px 0 0; padding:15px; width:258px; min-height:15em; background:#eee; position:relative; border:0;}
         #cas #login:before {line-height:0.1; font-size:1px; background:transparent url("../images/key-point_tr.gif") no-repeat top right; margin:-15px -15px 0 -15px; height:15px; display:block; content:url("../images/key-point_tl.gif");}
         #cas #login:after {display:block; clear:both; padding-top:15px; line-height:0.1; font-size:1px; content:url("../images/key-point_bl.gif"); margin:-15px; height:8px; background:transparent url("../images/key-point_br.gif") scroll no-repeat bottom right;}
             #cas #login h2 {border-bottom:1px solid #ddd; padding:3px 0; font:normal 400 17px Georgia, "Times New Roman", Times, serif; color:#333;}
@@ -34,7 +34,7 @@
             #cas #login .btn-submit {float:none; clear:none; display:inline; letter-spacing:0;}
             #cas #login .btn-reset {float:none; clear:none; margin-left:5px; border:0; border-left:1px solid #ddd; background:transparent; color:#777; text-transform:lowercase; letter-spacing:0;}
 
-    #cas #sidebar {float:left; margin-left:296px; padding:18px 15px;}
+    #cas #sidebar {float:left; margin-left:296px; margin-top: 135px; padding:18px 15px;}
         #cas #sidebar h3 {font:normal 400 14px Georgia, "Times New Roman", Times, serif; color:#555; margin:18px 0 0; padding:6px 0 3px;}
         #cas #sidebar p {margin:0 0 18px; padding:0; color:#555; font-size:1.1em;}
 
@@ -62,11 +62,11 @@ http://www.positioniseverything.net/easyclearing.html and http://www.ejeliot.com
 
 
 /* HEADER --------------------------------- */
-#header {position:relative; top:0; left:0; padding-top:52px; background:#fff url(../images/ja-sig-logo.gif) no-repeat scroll 25px 10px;}
+#header {position:relative; top:0; left:0; padding-top:52px; background:#fff url(../images/ja-sig-logo.png) no-repeat scroll 25px 10px; background-size: 240px 30px;}
     #header h1#app-name {clear:both; padding:0 0 0 25px; background:#210f7a; color:#fff; font:normal 400 2.8em/2.5em Georgia,"Times New Roman", serif;} /* d21033 */
 
 /* CONTENT --------------------------------- */
-#content {clear:both; padding:1px 0; margin:0 25px 2em;}
+#content {clear:both; padding:1px 0; margin:0 25px 3em;}
     #content h2 {margin:0 0 .5em 0; font-size:1.3em; font-weight:400; color:#000; xborder-bottom:1px solid #eee; padding:3px 0; xletter-spacing:-1px;}
     #content h3 {font:1em arial, helvetica, sans-serif; font-weight:400;}
 
